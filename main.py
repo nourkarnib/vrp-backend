@@ -190,7 +190,7 @@ async def solve(request: OptimizationRequest, user=Depends(get_current_user)):
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["http://localhost:5173",
-        "https://ai-solver.vercel.app",  # add after you get the URL
+        "https://start-optim.vercel.app",  # add after you get the URL
          "*"],
     allow_credentials=True,
     allow_methods=["*"],

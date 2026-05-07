@@ -1,0 +1,11 @@
+customer_id,address,demand,service_time,ready_time,due_time
+1,Place du Capitole Toulouse,5,10,480,1020
+2,Gare Matabiau Toulouse,6,10,480,1020
+3,Université Paul Sabatier Toulouse,4,8,480,1020
+4,Aéroport Toulouse-Blagnac,8,12,540,1020
+5,Stade Ernest-Wallon Toulouse,7,10,480,1020
+6,Marché Victor Hugo Toulouse,3,8,480,900
+7,Oncopole Toulouse,6,10,540,1020
+8,Zénith Toulouse Métropole,4,8,600,1020
+9,Parc des Expositions Toulouse,9,12,600,1020
+10,Labège Innopole Toulouse,5,10,480,1020
